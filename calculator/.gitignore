@@ -1,1 +1,5 @@
-
+calculator
+calculator-dbg
+*.o
+*.tmp
+*.log
